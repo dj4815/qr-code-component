@@ -54,6 +54,7 @@ p {
   background-color: white;
   border-radius: 20px;
   align-items: center;
+  box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.047);
 }
 
 .card-qr-code img {
@@ -77,12 +78,12 @@ p {
   margin-bottom: 16px;
 }
 
-
 .attribution {
   /* border: 2px solid blue; */
   font-size: 11px;
   text-align: center;
   font-family: "Outfit", sans-serif;
+  margin-top: 10px;
 }
 
 .attribution a {
