@@ -5,7 +5,6 @@
 }
 
 body {
-  /* border: 2px solid #0000ff; */
   background-color: #d5e1ef;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -14,7 +13,6 @@ body {
 }
 
 main {
-  /* border: 2px solid red; */
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -45,7 +43,6 @@ p {
 }
 
 .card {
-  /* border: 2px solid green; */
   display: flex;
   flex-direction: column;
   max-width: 320px;
@@ -59,16 +56,12 @@ p {
 }
 
 .card-qr-code img {
-  /* border: 2px solid black; */
-  /* max-width: 288px;
-  max-height: 288px; */
   max-width: 100%;
   margin-bottom: 1.25rem;
   border-radius: 10px;
 }
 
 .card-text {
-  /* border: 2px solid red; */
   display: flex;
   max-width: 100%;
   flex-direction: column;
@@ -78,13 +71,11 @@ p {
 }
 
 .card-text-heading {
-  /* border: 2px solid blue; */
   max-width: 100%;
   margin-bottom: 1rem;
 }
 
 .attribution {
-  /* border: 2px solid blue; */
   position: absolute;
   bottom: 10px;
   font-size: 11px;
